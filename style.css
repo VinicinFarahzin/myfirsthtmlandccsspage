@@ -1,0 +1,47 @@
+body{
+
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #919ded;
+}
+
+
+header, footer {
+    padding:10px;
+    text-align: center;
+    background-color: #eee;
+}
+
+.content {
+    padding: 20px;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.rick-astley {
+    color: #ff4500;
+    text-decoration: none;
+}
+
+.rick-astley:hover {
+    text-decoration: underline;
+    transition: color 0.3s;
+    color: #ff6347
+}
+
+.troll{
+    text-decoration: underline;
+    color: blue;
+}
+
+.troll:hover {
+    color: #0000ff;
+}
+
+.hello-world{
+    font-size: 50px;
+}
