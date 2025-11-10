@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <title>My First HTML page!</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <link rel="icon" type="image/x-icon" href="vinicius.ico">
+</head>
+<body>
+    <header>Vinicius' HTML Page :D</header>
+    <h1 class="about-me">About Me</h1>
+    <h3>Hi, there, my name is Vinícius Farah, and I'm only another guy... Yeah, I'm not any famous coder, owner of a really famous enterprise, I'm just another guy, nothing more.</h3>
+    <br>
+    <h3>So, my name is Vinícius, I'm only 12-year-old, and code for fun, I don't think coding will become my job in future, I really enjoy coding, but it's only a hobby to me. <br> Anyways, some cool things about me:</h3>
+    <ul>
+        <li>I really enjoy punk rock</li>
+        <li>I'm a very, very starter, like, I just discovered the tag &quot;li&quot;</li>
+        <li>I'm an explorer in this area (coding) I wanna learn everything! Game dev, Web Dev, AI, etc.</li>
+        <li>I love Nirvana</li>
+        <li>I hate Git. Oh... It would be hell easier if I could pull and push projects automatically</li>
+        <li>Of course, I'm Brazilian</li>
+        <li>I live with my two cats, my two little brothers, my parents and my grandma</li>
+        <li>I'm completely fluent in English</li>
+        <li>I consider myself a weird guy</li>
+        <li>I'm a fast learner</li>
+        <li>I play a Brazilian instrument called "berimbau"</li>
+    </ul>
+    <h3>And That's it.</h3>
+    <footer>Vinícius Farah, 2025, No rights reserved, because I'm not an actual coder, I only code for fun, it would never be my job :D</footer>
+    </body>
+</html>

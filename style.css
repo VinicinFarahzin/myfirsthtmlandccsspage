@@ -1,47 +1,48 @@
 body{
-
     display:flex;
+    font-family: 'Arial', sans-serif;
     flex-direction: column;
     min-height: 100vh;
     margin: 0;
     background-color: #919ded;
 }
-
-
-header, footer {
+header {
     padding:10px;
-    text-align: center;
     background-color: #eee;
 }
-
 .content {
     padding: 20px;
 }
-
 footer {
     margin-top: auto;
+    background-color: #eee;
+    text-align: center;
+    padding: 10px;
 }
-
 .rick-astley {
     color: #ff4500;
     text-decoration: none;
+    transition: color 0.3s;
 }
-
 .rick-astley:hover {
     text-decoration: underline;
-    transition: color 0.3s;
     color: #ff6347
 }
-
 .troll{
     text-decoration: underline;
     color: blue;
 }
-
 .troll:hover {
     color: #0000ff;
 }
-
 .hello-world{
     font-size: 50px;
+    font-family: 'arial black', sans-serif;
+}
+.about-me{
+    font-size: 50px;
+    font-family: 'arial black', sans-serif;
+}
+li{
+    font-size: 20px;
 }
