@@ -9,6 +9,8 @@ body{
 header {
     padding:10px;
     background-color: #eee;
+    display: flex;
+    justify-content: space-between
 }
 .content {
     padding: 20px;
@@ -43,6 +45,26 @@ footer {
     font-size: 50px;
     font-family: 'arial black', sans-serif;
 }
-li{
+ul{
     font-size: 20px;
+}
+ol{
+    font-size: 20px;
+}
+.list-title{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav{
+    margin-left: 15px;
+    font-size: 10px;
+}
+.works-fine{
+    font-size: 17px;
+}
+
+.introduction{
+    font-size: 20px;
+    margin-bottom: 20px;
 }
